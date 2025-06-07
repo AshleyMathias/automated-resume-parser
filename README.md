@@ -68,3 +68,10 @@ Use this tool to quickly check whether a candidate's resume aligns with a set of
 Ashley Mathias
 Python Developer & AI Enthusiast
 Linkedin: ashleymathias10, Github: Ashley Mathias
+
+---
+
+<p align="center">
+  Built with 💻 and ☕ by <strong>Ashley Mathias</strong>
+</p>
+
