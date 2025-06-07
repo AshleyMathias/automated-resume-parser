@@ -1,6 +1,7 @@
 # 🧠 Automated Resume Parser and Skill Matcher
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-Used%20in%20project-purple?logo=adobeacrobatreader&logoColor=white)
+
 
 ![Resume Parser Screenshot](Screenshot.png)
 
