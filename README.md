@@ -27,6 +27,7 @@ This is a Python-based GUI tool that extracts skills from resumes (PDF format) a
 
 ---
 
+
 ## 📂 Project Structure
 resume-parser/
 ├── app.py # Main application logic
