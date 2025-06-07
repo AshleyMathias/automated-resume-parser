@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-![Resume Parser Screenshot](screenshot.png)
+![Resume Parser Screenshot](Screenshot.png)
 
 This is a Python-based GUI tool that extracts skills from resumes (PDF format) and matches them with a predefined list of industry-relevant keywords using regular expressions. Built with `Tkinter` for the user interface and `PyPDF2` for PDF parsing, this project demonstrates core Python skills in file handling, pattern matching, and basic UI development.
 
