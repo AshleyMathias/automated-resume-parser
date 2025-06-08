@@ -67,11 +67,12 @@ Output: A list of matched skills displayed in the GUI
 📌 Sample Use Case
 Use this tool to quickly check whether a candidate's resume aligns with a set of job-related skills before proceeding with manual screening.
 
+---
 
-🙋‍♀️ About the Developer
-Ashley Mathias
-Python Developer & AI Enthusiast
-Linkedin: ashleymathias10, Github: Ashley Mathias
+### 🙋‍♀️ About the Developer
+- Ashley Mathias: 
+- Python Developer & AI Enthusiast
+- Linkedin: ashleymathias10, Github: Ashley Mathias
 
 ---
 
